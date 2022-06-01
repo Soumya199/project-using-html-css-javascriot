@@ -1,0 +1,18 @@
+@media screen and (max-width:953px){
+ nav{
+     flex-direction: column;
+ }
+ .logo{
+     margin-right: 220px;
+ }
+  
+ .card-item{
+     display: flex;
+     justify-content: center;
+     margin: auto;
+ }
+ .slider{
+     height: 23vh;
+ }
+
+}
